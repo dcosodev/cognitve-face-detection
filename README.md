@@ -25,7 +25,7 @@ This is a .NET API for detecting faces in images using Microsoft Azure Cognitive
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/face-detection-api.git
+   git clone https://github.com/dcosodev/cognitve-face-detection.git
    cd face-detection-api
 
 2. Set up your Azure Face API credentials in appsettings.json:
